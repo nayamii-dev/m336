@@ -1,8 +1,8 @@
 {
-    "name": "naya",
-    "version": "0.0.1",
+    "name": "m336",
+    "version": "3.3.6",
     "private": true,
-    "description": "mee6 discord bot",
+    "description": "m336 discord bot",
     "main": "dist/index.js",
     "scripts": {},
     "keywords": [],
